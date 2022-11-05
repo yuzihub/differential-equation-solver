@@ -1,3 +1,3 @@
 # differential-equation-solver
-A program written in Matlab that can solve any differential equation represented as a system of first order ODEs.
+A program written in Matlab that can solve any differential equation represented as a system of first order ODEs./n
 The program implements and computes forward Euler, backward Euler and trapezoidal rule solutions of the differential equation.
